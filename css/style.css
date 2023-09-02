@@ -1,0 +1,200 @@
+.whole
+{
+    margin:auto;
+}
+.icon-container 
+{
+    /*display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin:auto;*/
+    position:relative;
+    left:80px;
+    float:left;
+    top:50px;
+    font-size:30px;
+  }
+
+.leftdiv
+{
+    float:left;
+    width:500px;
+    justify-content: left;
+    position: absolute;
+
+}
+
+.para h1
+{
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    color:black;
+
+}
+.para p
+{
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+    font-size:15px;
+    
+
+}
+#mail
+{
+    height:20px;
+    width:300px;
+    
+    padding-left:2em;
+    
+
+}
+#pass
+{
+    height:20px;
+    width:300px;
+    padding-left:2em;
+}
+#boldemail
+{
+    text-align: left;
+    float:left;
+    padding-left:100px;
+    font-size:15px;
+    
+}
+#boldpass
+{
+    text-align: left;
+    float:left;
+    padding-left:100px;
+    font-size:15px;
+}
+#remember
+{
+    
+    left:20px;
+
+}
+
+.checkbox a
+{
+    color:black;
+    text-decoration:none;
+
+}
+.signingoogle 
+{
+
+    border:1px solid black;
+    height:20px;
+    width:330px;
+    text-align: center;
+    margin:auto;
+}
+.signingoogle a
+{
+
+    text-decoration:none;
+    padding:2px;  
+    color:black;
+}
+.signin 
+{
+    border:1px solid black;
+    height:25px;
+    width:330px;
+    background-color: black;
+    margin:auto;
+    padding:2px;
+}
+.signin a
+{
+
+    text-decoration:none;
+    padding:2px;  
+    color:white;
+    
+
+}
+
+.form
+{
+    text-align:center;
+}
+#button
+{
+    height:30px;
+    width:330px;
+    padding:10px;
+    background-color:black;
+    color:white;
+}
+.rightdiv img
+{
+   
+        display: block;
+        margin: auto;
+        
+        
+}
+/*div{
+    padding : 2%;
+    color: white;
+    background-color: 009900;
+    width: 50%;
+    }*/
+#signupp{
+    left:80px;
+    float:left;
+    text-align:left;
+    color:grey;
+    margin:auto;
+    padding-left:8em;
+}
+.signup a
+{
+    text-decoration:none;
+    color:black;
+
+}
+
+.rightdiv
+{
+    float:right;
+    width:400px;
+    justify-content:right;  
+    
+}
+
+#img
+{
+    float:right;
+    top:500px;
+    left:200px;
+    height:auto;
+    width:700px;
+
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 80px;
+    left: 800px;
+    font-size:40px;
+    color:white;
+  }
+  .top-right {
+    position: absolute;
+    top: 80px;
+    right: 40px;
+    font-size:90px;
+    color:white;
+  }
+  .bottom-left1 {
+    position: absolute;
+    bottom: 40px;
+    left: 800px;
+    font-size:20px;
+    color:grey;
+  }
